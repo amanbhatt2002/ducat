@@ -24,3 +24,23 @@ naming conventions of variables declarations in python :=
 1. variable name not a keywords
 2. variable name always start with alphabet, it  do not starts with no.  oe special symbol , exclude  underscore.
 
+punctuators marks =:
+() parenthesis
+[] square bracket 
+{} curly braces
+: colon
+;semicolon
+@ at the rate 
+# hatch sign / number sign
+$ dollar sign
+% modulus
+^ carret sign  
+& ampersand 
+* asterisks
+! exclamation mark
+- dash
+_underscore
+" double quote
+' single quote 
+, comma 
+. dot
