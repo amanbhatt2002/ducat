@@ -1,0 +1,7 @@
+architecture of  pvm 
+ python  traditional  runtime model: source  code you type is translate  to byte 
+  code . which is then  run by the python  virtual machine .  your code is  automatically  compiled , but  then  it  is  interpeted.
+
+
+
+  m.py >>

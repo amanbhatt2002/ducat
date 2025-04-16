@@ -1,0 +1,17 @@
+
+C:\Users\aman bhatt>cd onedrive
+
+C:\Users\aman bhatt\OneDrive>cd Desktop
+
+C:\Users\aman bhatt\OneDrive\Desktop>python notepy.py
+add 30.5
+
+C:\Users\aman bhatt\OneDrive\Desktop>
+
+
+
+
+
+byte code save
+
+python -m py_compile test.py

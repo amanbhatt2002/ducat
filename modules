@@ -1,0 +1,15 @@
+in python there are several  built in modules for develop different  appliccation :
+> tkinter (for gui programing )
+>Socket (for socket programing )
+> Kivy (for Mobile application)
+Wxpython (for audio/vedio application)
+>pygame (for game programming )
+Numpy(numerical python) , scipy(scientific python), pandas , Matplotllib, seaborn 
+(for data science)
+
+>Scikit learn , Nltk(natural language  tool kit ),openCV (computer vision) for (ML)
+>tenserflow (library devlop by GOOGLE),pyTorch(for deep learning)
+
+
+tenserflow (library devlop by GOOGLE)
+pyTorch  develop by facebook

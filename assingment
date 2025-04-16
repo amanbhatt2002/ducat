@@ -1,0 +1,11 @@
+# '''l=int(input("enter any length"))
+# w=int(input("enter any width"))
+
+# area=l*w
+# print("area of rectangle =",area)'''
+
+# l,w=map(int,input("enter l&w: ").split())
+# print("area of  rectangle = ",l*w)
+
+# b,h=map(float,input("enter base and height: ").split())
+# print("area of triangle = ",round((0.5*b*h),2))

@@ -1,0 +1,26 @@
+tokens in python  :- 
+a token can be described as the building block of   A programming language . it is a smallest unit of  the program.
+
+
+there are five categories of tokens 
+
+1. keywords 
+2. identifiers 
+3. literals 
+4. operators 
+5. punctuators
+
+
+keywords=:
+some system defined reserved  words , which have the specific meaning  are ccalled keywords.
+
+in python total  keywords  are 35.
+
+identifiers/variables=:
+
+variable is a memory location which  contains a specific type of data.
+
+naming conventions of variables declarations in python :=
+1. variable name not a keywords
+2. variable name always start with alphabet, it  do not starts with no.  oe special symbol , exclude  underscore.
+

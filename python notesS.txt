@@ -1,0 +1,19 @@
+python fullstack 
+
+>> basic full stack 
+>> advance python 
+
+>> sql [mysql databASSE]
+>> frontend
+	>> html
+	>> css
+	>>bootstrap
+	>> js
+	>> react js
+
+>>>>> backend 
+  	>> Django Framework
+	>> api programming 
+	>> lIVE pROGRAMMING(PROJECT)
+	
+

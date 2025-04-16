@@ -1,0 +1,4 @@
+details about print function  in python 
+we can give  maximum five parametere in  this function 
+
+print (object , sep='',)

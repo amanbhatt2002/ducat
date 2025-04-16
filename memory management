@@ -1,0 +1,11 @@
+ memory management in python  :- 
+  print() :- it  is s predefined function  and  it is used for to display any variable any message or any variable value . 
+  type();- it is also a predefined function  and it is used for to find  out data type  of any varable . 
+  id():- it is also a predefined function used to  findout the address of any variable 
+
+
+
+  any integer  take 4 bytes of memory space 
+  flOAT  takes  8 bytes 
+   strings takes  1 bytes 
+   
