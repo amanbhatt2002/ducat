@@ -1,0 +1,16 @@
+operators inn python 
+
+ operators are used to  operate on values 
+
+
+ operators  are generally a symbol  which  is ;used 
+  to manipulate  any  mathmetical  or logical  expressions.
+
+
+  a+b [where + is a operator &  a,b  both are  called operands]
+
+  according to basis of operands , operators are  3 types :-
+
+  1: unary  operator :-single operands 
+  2: binary  operator :-double  operands 
+  3: ternary operator :-triple  operands 
