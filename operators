@@ -1,34 +1,99 @@
-operators inn python 
+# operators inn python 
 
- operators are used to  operate on values 
-
-
- operators  are generally a symbol  which  is ;used 
-  to manipulate  any  mathmetical  or logical  expressions.
+#  operators are used to  operate on values 
 
 
-  a+b [where + is a operator &  a,b  both are  called operands]
+#  operators  are generally a symbol  which  is ;used 
+#   to manipulate  any  mathmetical  or logical  expressions.
 
-  according to basis of operands , operators are  3 types :-
 
-  1: unary  operator :-single operands (not operator )
-  2: binary  operator :-double  operands +.-,*,/,% etc
-  3: ternary operator :-triple  operands (conditional operartor) 
+#   a+b [where + is a operator &  a,b  both are  called operands]
 
-  gernerally  in python  operator are different types :-
-  1. arithmetical operator 
-  2. assingment operators 
-  3. comparision operator 
-  4. logical  operator 
-  5 membership operators
-  6. identify operator
-  7. walrus operator[python 3.8 version]
-  8.bitwise operator 
+#   according to basis of operands , operators are  3 types :-
 
-  2.assingment operator =>
-    it is also called  binary operator .
-    these operator  are mainly  used for to assign  a value  into a variable .
-    these operator  always  works right to left.
+#   1: unary  operator :-single operands (not operator )
+#   2: binary  operator :-double  operands +.-,*,/,% etc
+#   3: ternary operator :-triple  operands (conditional operartor) 
 
-    =,+, -=,*=,/=,%=,**=,//=
+#   gernerally  in python  operator are different types :-
+#   1. arithmetical operator 
+#   2. assingment operators 
+#   3. comparision operator 
+#   4. logical  operator 
+#   5 membership operators
+#   6. identify operator
+#   7. walrus operator[python 3.8 version]
+#   8.bitwise operator 
+
+#   2.assingment operator =>
+#     it is also called  binary operator .
+#     these operator  are mainly  used for to assign  a value  into a variable .
+#     these operator  always  works right to left.
+
+#     =,+, -=,*=,/=,%=,**=,//=
+  
+
+#   3. comparision operator =>
+#   it is also called  binRY   operaror .
+#   these  operator are mainly usedd for to check  a conditon  if conditional
+#   is true  then return true  and  if condition  is false  then return false .
+
+#   ==, >,>=, <,<=, !=
+
+#   diffrence btw = and ==
+
+#   = is a assingment operator 
+#   == is a comparison operator 
+
+
+
+# 4. logical operator =>
+# it is also called  boolean operator .
+# these operator are mainly used to check  the logical  condition
+# if condition is true then return true  and if condition is false then return false
+# 
+# and[binary operator], or[binary operator], not[unary operator]
+# and operator  is used to check both condition
+# or operator  is used to check any one condition
+# not operator  is used to check opposite condition
+
+# example
+
+# a=10
+# b=20 
+# (a<b and b>a)
+# True
+# (a>b or b<a)
+
+# True
+# (not a>b)
+# True
+# (not a<b)
+# False
+# (a>b and b<a)
+# False
+# (a<b or b<a)
+# True
+
+#
+# 5. membership operator =>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
