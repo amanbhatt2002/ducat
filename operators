@@ -11,6 +11,24 @@ operators inn python
 
   according to basis of operands , operators are  3 types :-
 
-  1: unary  operator :-single operands 
-  2: binary  operator :-double  operands 
-  3: ternary operator :-triple  operands 
+  1: unary  operator :-single operands (not operator )
+  2: binary  operator :-double  operands +.-,*,/,% etc
+  3: ternary operator :-triple  operands (conditional operartor) 
+
+  gernerally  in python  operator are different types :-
+  1. arithmetical operator 
+  2. assingment operators 
+  3. comparision operator 
+  4. logical  operator 
+  5 membership operators
+  6. identify operator
+  7. walrus operator[python 3.8 version]
+  8.bitwise operator 
+
+  2.assingment operator =>
+    it is also called  binary operator .
+    these operator  are mainly  used for to assign  a value  into a variable .
+    these operator  always  works right to left.
+
+    =,+, -=,*=,/=,%=,**=,//=
+  
