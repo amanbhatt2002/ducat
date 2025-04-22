@@ -1,0 +1,70 @@
+introduction to python:-
+>>  python is an object oriented  high level ,dynamic and  multipurpose language 
+
+>> python supports  multiple  programming  patterns  including   object oriented programming  and functional programming  or procedural styles 
+
+>> it  is an  interpreted language.
+
+
+c language :-[c-style ][functional based programming]
+
+
+
+
+c ++ language :-[c++style][oop based]
+class & object
+
+
+ two types of translator 
+1> compiler :- 
+2> interpreter:-
+
+compiler  and interpreter both are translator .These converts high level language to  low level language or machine language and  low level lang to high level lang.
+but major difference between  compiler and interpreter- compiler excetute whole program  at a time while interpreter  execute line by line  code .
+
+python interpreter Name is CPYTHON.
+>> python language is a combination  of c , c++ & java.
+
+WHAT IS PYTHON 
+	
+we don't  need  to use  data types to declare variable because  it is dynamically typed 
+
+>> python makes  the dev and debugg fast  because there is no compilation step including  in python 
+
+
+basic data type  :- 3 types
+ 1. integer [Any Whole no.] a=10
+2. Float [any decimal no.] b=20.5
+3. string [ any char] c="hello"
+
+c language :-  [ strongly typed languge]
+int a =10; c,c++, c#. java etc.
+float b=20.3;
+
+ python language := [loosely typed lang / dynamic ]
+a=10 php,r,js.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

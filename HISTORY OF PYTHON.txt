@@ -1,0 +1,12 @@
+HISTORY OF PYTHON 
+
+>>it was  created by  GUIDO VAN ROSSUM in   NETHERLAND  during  1989-1991.
+>> gudio van Rossum is fan of 'monty pyhton's  flying circus', this  is a famous tv comedy show in  Netherlands, so that  named python .
+>> it is open source from the beginning.
+
+VERSIONS OF PYTHON
+ 1. first version - python 1.0- jan 1994
+
+ 2.latest  version  >> python 3.0 - dec 3,2008
+
+	>> python 3.13.2 -feb 04 ,2025

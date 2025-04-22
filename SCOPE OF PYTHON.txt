@@ -1,0 +1,22 @@
+SCOPE OF PYTHON 
+
+WEB APPLICATIONS :- Django and flask
+
+DESKTOP APPLICATION :- TKINTER LIBRARY 
+
+CONSOLE BASED APPLICATION:- python coding 
+
+SOFTWARE APPLICATION :-OpenCV [computer vision]
+
+SCIENTIFIC  & NUMERIC :-numpy ,scipy,pandas, matplotlib,seanborn, sklearn, nltk, bs4library
+
+BUISNESS APPLICATION :-numpy ,scipy,pandas, matplotlib,seanborn, sklearn, nltk, bs4library
+
+AUDIO OR VIDEO APPLICATION:-WxPython  library
+
+3D CAD APPLICATION:- Blender
+ 
+ENTERPRISES APPLICATION
+
+IMAGE PROCESSING APPLICATION
+

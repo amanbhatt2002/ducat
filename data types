@@ -1,0 +1,206 @@
+# dATA TYPES :=
+# there are  total six types of operator
+
+# 1. Number
+# 2. String
+# 3. list 
+# 4. tuple
+# 5. dictionary
+# 6. set 
+
+# gernerally  in python data types  arre 2 types :=
+#  1. mutable data types:= [changeable dTA TYPES ]
+
+#  list  , dict , set
+#  2. immutable data types
+
+# number , string , tuple 
+
+
+# 1. number data type:=
+#  integer [any whole  no. ] A=10
+# float [decimal values] B=10.5
+# complex [real + imaginary] C=3+4j
+# BOOLEAN [true/false] c= true
+# None type c= None
+
+# 2. Type Casting / Type Conversion :=
+# Type casting is the process of converting one data type to another.
+
+# There are two types of type casting:
+# 1. Implicit Type Casting (Automatic) :=
+#   - Python automatically converts one data type to another.
+#   Example:
+#   a = 10       # Integer
+#   b = 5.5      # Float
+#   c = a + b    # Result is Float (Implicit conversion)
+
+# 2. Explicit Type Casting (Manual) :=
+#   - The user manually converts one data type to another using functions like int(), float(), str(), etc.
+#   Example:
+#   a = "123"    # String
+#   b = int(a)   # Convert String to Integer
+#   c = 3.14     # Float
+#   d = str(c)   # Convert Float to String
+
+#   Example of Float to Integer and Integer to Float Conversion:
+
+#   ```python
+#   # Float to Integer
+#   x = 9.8       # Float
+#   y = int(x)    # Convert Float to Integer
+#   print(y)      # Output: 9
+
+#   # Integer to Float
+#   a = 7         # Integer
+#   b = float(a)  # Convert Integer to Float
+#   print(b)    
+  
+#     # Output: 7.0```
+
+#     Example of Boolean to Integer Conversion:
+
+#     ```python
+#     # Boolean to Integer
+    # flag = True      # Boolean
+    # num = int(flag)  # Convert Boolean to Integer
+    # print(num)       # Output: 1
+
+    # flag = False     # Boolean
+    # num = int(flag)  # Convert Boolean to Integer
+    # print(num)       # Output: 0
+    # ```
+
+# >>> a=20.5
+# >>> bool(a)
+# True
+# >>> type(a)
+# <class 'float'>
+# >>> b=bool(a)
+# >>> b
+# True
+# >>> type(b)
+# <class 'bool'>
+# >>>
+
+# Example of Complex Number Operations:
+
+# Creating complex numbers
+# x = 3 + 4j
+# y = 1 - 2j
+
+# # Addition of complex numbers
+# add_result = x + y
+# print("Addition:", add_result)
+
+# # Subtraction of complex numbers
+# sub_result = x - y
+# print("Subtraction:", sub_result)
+
+# # Multiplication of complex numbers
+# mul_result = x * y
+# print("Multiplication:", mul_result)
+
+# # Division of complex numbers
+# div_result = x / y
+# print("Division:", div_result)
+
+# # Getting the real and imaginary parts
+# real_part = x.real
+# imaginary_part = x.imag
+# print("Real part:", real_part)
+# print("Imaginary part:", imaginary_part)
+
+# # Conjugate of a complex number
+# conjugate = x.conjugate()
+# print("Conjugate:", conjugate)
+
+
+# a=5
+# b=7
+# c=complex(a,b)
+# print(c)
+# # Output: (5+7j)
+# type(c)
+# # Output: <class 'complex'>
+
+# c.real
+# # Output: 5.0
+# c.imag
+# # Output: 7.0
+# c.conjugate()
+# # Output: (5-7j)
+# # c1=complex(3,4)
+# # c2=complex(1,2)
+# # c3=c1+c2      
+# # print(c3)
+# # Output: (4+6j)
+
+
+#   examples
+# >>> a="20.5"
+# >>> b=int(a)
+# Traceback (most recent call last):
+#   File "<python-input-1>", line 1, in <module>
+#     b=int(a)
+# ValueError: invalid literal for int() with base 10: '20.5'
+# >>> b=float(a)
+# >>> b
+# 20.5
+# >>> c=int(b)
+# >>> c
+# 20
+# >>>
+
+# string data type:=
+# # 1. String:=
+# string is a sequence of characters enclosed in single quotes (' ') or double quotes (" ").
+# # Strings are immutable, meaning they cannot be changed after creation.
+# # Strings can contain letters, numbers, symbols, and spaces.
+# # Strings can be created using single quotes, double quotes, or triple quotes (for multi-line strings).
+# # Strings can be concatenated using the + operator.
+# str1 = "Hello"
+
+
+# String definition and examples:
+
+# A string is a sequence of characters enclosed in single quotes (' '), double quotes (" "), or triple quotes (''' ''' or """ """).
+# Strings are immutable, meaning their content cannot be changed after creation.
+# Strings can contain letters, numbers, symbols, and spaces.
+# string  are stored in memory as a sequence of characters in contigous memory location.
+# Strings can be concatenated using the + operator.
+
+# examples of string creation:
+# # 1. Using single quotes:
+# str1 = 'Hello'
+# # 2. Using double quotes:
+
+# str2 = "World"
+# # 3. Using triple quotes (for multi-line strings):
+
+# str3 = '''This is a
+# multi-line string.'''
+
+# indexing and slicing:
+# # differernce between indexing and slicing:
+# Using indexing  we can access a single character of string at a time.
+# in python  indexing  are  of two types:
+# # 1. positive indexing: [0,1,2,3,4,5](forward direction)
+# always starts with 0 by default
+
+
+# # 2. negative indexing: [-1,-2,-3,-4,-5,-6](backward direction)
+# always starts with -1 by default
+
+# # 3. Slicing:=
+# using slicing we can access one character or multiple characters of string at a time.
+# Slicing is done using the colon (:) operator.
+# The syntax for slicing is:
+# string[start:end:step]
+# where:
+# - start: The starting index (inclusive).
+# - end: The ending index (exclusive).
+# - step: The step size (optional, default is 1).
+
+
+

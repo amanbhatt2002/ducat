@@ -1,4 +1,4 @@
-# operators inn python 
+# operators in python 
 
 #  operators are used to  operate on values 
 
@@ -137,6 +137,134 @@
 # print(c)
 # output
 # 30
+
+
+#bitwise operator
+ it  is also  a special operator  in python .
+ it is used  for  shifting  of bit  levels.
+
+ &[bitwise and operator ]
+ | [bitwise or operator ]
+ ^ [ bitwise  X or operator]
+ ~[bitwise not  operator ]
+ << [left shift operatr]
+ >>[riwght shift operator]
+
+
+ logic and gate  := [truth table ]
+ x  y  result
+ 0  0  0
+ 1  0  0
+ 0  1  0
+ 1  1  1
+ 
+
+logic or gate :=[truth table]
+
+
+x  y  result
+ 0  0  0
+ 1  0  1
+ 0  1  1
+ 1  1  1
+
+
+ logic  X or gate 
+ x  y  result
+ 0  0  0
+ 1  0  1
+ 0  1  1
+ 1  1  0
+
+
+ logic  not  gate 
+ input  result
+  0     1
+  1     0
+
+
+
+  # Example of bitwise operators in Python
+
+  # Bitwise AND
+  a = 5  # Binary: 0101
+  b = 3  # Binary: 0011
+  result = a & b  # Binary: 0001
+  # Output: 1
+
+  # Bitwise OR
+  result = a | b  # Binary: 0111
+  # Output: 7
+
+  # Bitwise XOR
+  result = a ^ b  # Binary: 0110
+  # Output: 6
+
+  # Bitwise NOT
+  result = ~a  # Binary: -(0101 + 1) = -0110
+  # Output: -6
+
+  # Left Shift
+  result = a << 1  # Binary: 1010
+  # Output: 10
+
+  # Right Shift
+  result = a >> 1  # Binary: 0010
+  # Output: 2
+
+
+preference of operator
+Bodmas rule
+# Preference of operators in Python follows the BODMAS rule:
+# B - Brackets
+# O - Orders (Exponents, Roots, etc.)
+# D - Division
+# M - Multiplication
+# A - Addition
+# S - Subtraction
+
+# Example demonstrating operator precedence:
+a = 10
+b = 5
+c = 2
+
+# Expression: a + b * c
+# Multiplication (*) has higher precedence than Addition (+)
+result = a + b * c  # Equivalent to a + (b * c)
+# Output: 20
+
+# Expression: (a + b) * c
+# Brackets () have the highest precedence
+result = (a + b) * c
+# Output: 30
+
+# Expression: a ** b / c
+# Exponentiation (**) has higher precedence than Division (/)
+result = a ** b / c  # Equivalent to (a ** b) / c
+# Output: 50000.0
+
+# Expression: a + b - c
+# Addition (+) and Subtraction (-) have the same precedence, evaluated left to right
+result = a + b - c  # Equivalent to (a + b) - c
+# Output: 13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
