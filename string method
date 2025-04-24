@@ -135,5 +135,23 @@
 # str2 = str1.isspace()
 # print(str2)  # Output: True
 
+#.islower()
+# define a string that contains only lowercase letters and is not empty.
+# str1 = "hello"
+# str2 = str1.islower()
+# print(str2)  # Output: True
+
+
+# define a string that contains non-lowercase characters (uppercase letters, numbers, symbols) or is empty.
+# str1 = "Hello"
+# str2 = str1.islower()
+# print(str2)  # Output: False
+
+
+
+
+
+
+
 
 
