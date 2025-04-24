@@ -202,5 +202,120 @@
 # - end: The ending index (exclusive).
 # - step: The step size (optional, default is 1).
 
+# # Examples of string indexing and slicing:
+# str1 = "Hello, World!"
+# # Positive indexing
+# print(str1[0])   # Output: H
+# print(str1[7])   # Output: W
+# print(str1[12])  # Output: !
+# # Negative indexing
+# print(str1[-1])  # Output: !
+# print(str1[-7])  # Output: W
+# print(str1[-13]) # Output: H
+
+
+#  String Concatenation is the process of joining two or more strings together to form a single string. In Python, this is typically done using the + operator.
+
+# str1= "Hello"
+# str2= "World"
+# str3= str1 + " " + str2
+# print(str3)  # Output: Hello World
+# # String Repetition is the process of repeating a string multiple times. In Python, this is done using the * operator.
+
+# string replicate  operator
+# str1 = "Hello"
+# str2 = str1 * 3
+# print(str2)  # Output: HelloHelloHello
+# # String Length is the number of characters in a string. In Python, this is done using the len() function.
+
+
+
+#capalization
+# str1 = "hello world"
+# str2=str1.capitalize()
+# print(str2)  # Output: Hello world
+
+# title case 
+# str1 = "hello world"
+# str2 = str1.title()
+# print(str2)  # Output: Hello World
+
+#count (string,beginning,ending)
+# str1 = "hello world"
+# str2 = str1.count("o")
+# print(str2)  # Output: 2
+
+
+# .endswith(string,start, end)
+# str1 = "welcome to python programming"
+# str2 = str1.endswith("ming")
+# print(str2)  # Output: True
+
+# .startswith(string, start, end)
+# str1 = "welcome to india"
+# str2 = str1.startswith("we")
+# print(str2)  # Output: True
+
+# print(str1.startswith("come"),3 )  # Output: True
+
+
+# .find(string, start, end)
+
+# str1 = "hello world"
+# str2 = str1.find("o")
+# print(str2)  # Output: 4
+
+# print(str1.find("o", 20))  # Output: -1 (not found)
+
+
+
+
+
+
+# .index (string, start, end)
+# str1 = "hello world"
+# str2 = str1.index("o")
+# print(str2)  # Output: 4
+
+# str3 = str1.index("o", 20)
+# print(str3)  # Output: ValueError: substring not found
+
+
+
+# .isalnum()
+# define a string that contains only alphanumeric characters (letters and numbers) and is not empty.
+# str1 = "hello123"
+# str2 = str1.isalnum()
+# print(str2)  # Output: True
+# # define a string that contains non-alphanumeric characters (spaces, symbols) or is empty.
+# str1 = "hello world"
+# str2 = str1.isalnum()
+# print(str2)  # Output: False
+
+# .isalpha()
+# define a string that contains only alphabetic characters (letters) and is not empty.
+
+# str1 = "hello"
+# str2 = str1.isalpha()
+# print(str2)  # Output: True
+
+# # define a string that contains non-alphabetic characters (numbers, symbols) or is empty.
+# str1 = "hello123"
+# str2 = str1.isalpha()
+# print(str2)  # Output: False
+
+
+#.isupper()
+# define a string that contains only uppercase letters and is not empty.
+# str1 = "HELLO"
+# str2 = str1.isupper()
+# print(str2)  # Output: True
+
+
+
+
+
+
+
 
 
