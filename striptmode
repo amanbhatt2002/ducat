@@ -1,17 +1,79 @@
 
-C:\Users\aman bhatt>cd onedrive
+# C:\Users\aman bhatt>cd onedrive
 
-C:\Users\aman bhatt\OneDrive>cd Desktop
+# C:\Users\aman bhatt\OneDrive>cd Desktop
 
-C:\Users\aman bhatt\OneDrive\Desktop>python notepy.py
-add 30.5
+# C:\Users\aman bhatt\OneDrive\Desktop>python notepy.py
+# add 30.5
 
-C:\Users\aman bhatt\OneDrive\Desktop>
-
-
+# C:\Users\aman bhatt\OneDrive\Desktop>
 
 
 
-byte code save
 
-python -m py_compile test.py
+
+# byte code save
+
+# python -m py_compile test.py
+
+
+
+# In Python, script mode means you write your code in a file (usually with a .py extension) and then run the entire file at once.
+
+# Here’s a simple way to think about it:
+
+# In interactive mode, you type Python commands one-by-one (like in the Python shell or an interpreter — you see the result immediately).
+
+# In script mode, you write a complete program in a text file and then execute the file using a command like:
+
+# bash
+# Copy
+# Edit
+# python filename.py
+# Example: Suppose you create a file hello.py with this code:
+
+# python
+# Copy
+# Edit
+# print("Hello, World!")
+# a = 5
+# b = 10
+# print("Sum:", a + b)
+# Then you run it with:
+
+# bash
+# Copy
+# Edit
+# python hello.py
+# And you get the output:
+
+# makefile
+# Copy
+# Edit
+# Hello, World!
+# Sum: 15
+# In short:
+# 🔹 Script mode = Writing Python code in a file and running the file.
+# 🔹 Useful for building larger programs, automation, projects, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
