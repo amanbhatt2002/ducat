@@ -314,6 +314,36 @@
 
 
 
+#list data type in python:=
+# A list is a collection of items that can be of different data types (e.g., integers, strings, floats, etc.).
+# Lists are mutable, meaning their content can be changed after creation.
+# Lists can contain duplicate elements.
+# Lists are defined using square brackets [ ].
+# Lists can be created using square brackets [ ] or the list() constructor.
+#indexing  on the basis  of positive and negative indexing
+# Slicing is done using the colon (:) operator.
+
+# how to create a list in python:
+
+# 1. Using square brackets:
+# list1 = [1, 2, 3, 4, 5]
+# 2. Using the list() constructor:
+# list2 = list((1, 2, 3, 4, 5))
+# 3. Using list comprehension:
+# list3 = [x for x in range(1, 6)]
+# 4. Using the list() function with a string:
+# list4 = list("Hello")
+
+
+
+
+
+
+
+
+
+
+
 
 
 

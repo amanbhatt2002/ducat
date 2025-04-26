@@ -147,6 +147,82 @@
 # str2 = str1.islower()
 # print(str2)  # Output: False
 
+# .upper()
+# str1 = "hello"
+# str2 = str1.upper()
+# print(str2)  # Output: HELLO
+# .lower()
+# str1 = "HELLO"
+# str2 = str1.lower()
+# print(str2)  # Output: hello
+
+# .swapcase()
+# str1 = "Hello World"
+# str2 = str1.swapcase()
+# print(str2)  # Output: hELLO wORLD
+
+
+# .lstrip()
+# define a string with leading whitespace characters (spaces, tabs).
+# str1 = "   hello     "
+# str2 = str1.lstrip()
+# print(str2)  # Output: "hello     "
+
+
+# .rstrip()
+# define a string with trailing whitespace characters (spaces, tabs).
+# str1 = "   hello     "
+# str2 = str1.rstrip()
+# print(str2)  # Output: "   hello"
+
+# .strip()
+# define a string with leading and trailing whitespace characters (spaces, tabs).
+# str1 = "   hello     "
+# str2 = str1.strip()
+# print(str2)  # Output: "hello"
+
+# str1.strip("h")  # Output: "   ello     "
+
+
+# .replace(old, new, count)
+# str1 = """ python is a hgh level programing language  .  python is a interpreted language . python is a object oriented language . python is a high level programming language . python is a interpreted language . python is a object oriented language . python is a high level programming language . python is a interpreted language . python is a object oriented language . python is a high level programming language . python is a interpreted language . python is a object oriented language . python is a high level programming language . python is a interpreted language . python is a object oriented language . python is a high level programming language . python is a interpreted language . python is a object oriented language . python is a high level programming language . python is a interpreted language . python is a object oriented language """
+
+# str2 = str1.replace("python", "r")
+
+
+# print(str2)  # Output: "r is a hgh level programing language  .  r is a interpreted language . r is a object oriented language . r is a high level programming language . r is a interpreted language . r is a object oriented language . r is a high level programming language . r is a interpreted language . r is a object oriented language . r is a high level programming language . r is a interpreted language . r is a object oriented language . r is a high level programming language . r is a interpreted language . r is a object oriented language . r is a high level programming language . r is a interpreted language . r is a object oriented language . "
+
+
+# str3 = str1.replace("python", "r", 2)
+# print(str3)  # Output: "r is a hgh level programing language  .  r is a interpreted language . python is a object oriented language . python is a high level programming language . python is a interpreted language . python is a object oriented language . python is a high level programming language . python is a interpreted language . python is a object oriented language . python is a high level programming language . python is a interpreted language . python is a object oriented language . python is a high level programming language . python is a interpreted language . python is a object oriented language . python is a high level programming language . python is a interpreted language . python is a object oriented language . "
+
+
+# .len()
+# str1 = "hello world"
+# str2 = len(str1)
+# print(str2)  # Output: 11
+
+
+# .split()
+# str1 = "hello world"
+# str2 = str1.split()
+# print(str2)  # Output: ['hello', 'world']
+
+
+#temp=str2
+# print(temp)
+
+
+# result = str1.spli("o")
+# print(result)  # Output: ['hell', ' w', 'rld']
+
+
+
+
+
+
+
+
 
 
 
